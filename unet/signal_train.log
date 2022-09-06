@@ -1,0 +1,119 @@
+[2022-09-06 16:43:51,248][main.py][line:72][INFO] model_init_finished!
+[2022-09-06 16:43:51,248][main.py][line:164][INFO] start training!
+[2022-09-06 16:44:00,097][main.py][line:121][INFO] Epoch:[1/100]	 Average Loss: 196.4240
+[2022-09-06 16:44:01,488][main.py][line:142][INFO]   Average SNR: -2.5680 dB
+[2022-09-06 16:44:01,506][main.py][line:157][INFO] best epoch: 0, psnr: 0.00
+[2022-09-06 16:44:10,271][main.py][line:121][INFO] Epoch:[2/100]	 Average Loss: 155.0168
+[2022-09-06 16:44:11,595][main.py][line:142][INFO]   Average SNR: -1.4256 dB
+[2022-09-06 16:44:11,611][main.py][line:157][INFO] best epoch: 0, psnr: 0.00
+[2022-09-06 16:44:20,183][main.py][line:121][INFO] Epoch:[3/100]	 Average Loss: 131.8926
+[2022-09-06 16:44:21,487][main.py][line:142][INFO]   Average SNR: 1.4781 dB
+[2022-09-06 16:44:21,513][main.py][line:157][INFO] best epoch: 3, psnr: 1.48
+[2022-09-06 16:44:30,057][main.py][line:121][INFO] Epoch:[4/100]	 Average Loss: 121.6922
+[2022-09-06 16:44:31,351][main.py][line:142][INFO]   Average SNR: 2.7406 dB
+[2022-09-06 16:44:31,375][main.py][line:157][INFO] best epoch: 4, psnr: 2.74
+[2022-09-06 16:44:40,048][main.py][line:121][INFO] Epoch:[5/100]	 Average Loss: 118.7326
+[2022-09-06 16:44:41,414][main.py][line:142][INFO]   Average SNR: 2.6304 dB
+[2022-09-06 16:44:41,434][main.py][line:157][INFO] best epoch: 4, psnr: 2.74
+[2022-09-06 16:44:49,893][main.py][line:121][INFO] Epoch:[6/100]	 Average Loss: 117.7895
+[2022-09-06 16:44:51,242][main.py][line:142][INFO]   Average SNR: 2.5500 dB
+[2022-09-06 16:44:51,258][main.py][line:157][INFO] best epoch: 4, psnr: 2.74
+[2022-09-06 16:44:59,809][main.py][line:121][INFO] Epoch:[7/100]	 Average Loss: 115.8259
+[2022-09-06 16:45:01,244][main.py][line:142][INFO]   Average SNR: 2.4970 dB
+[2022-09-06 16:45:01,266][main.py][line:157][INFO] best epoch: 4, psnr: 2.74
+[2022-09-06 16:45:09,901][main.py][line:121][INFO] Epoch:[8/100]	 Average Loss: 114.6917
+[2022-09-06 16:45:11,262][main.py][line:142][INFO]   Average SNR: 3.1691 dB
+[2022-09-06 16:45:11,288][main.py][line:157][INFO] best epoch: 8, psnr: 3.17
+[2022-09-06 16:45:20,125][main.py][line:121][INFO] Epoch:[9/100]	 Average Loss: 113.6231
+[2022-09-06 16:45:21,621][main.py][line:142][INFO]   Average SNR: 2.4057 dB
+[2022-09-06 16:45:21,640][main.py][line:157][INFO] best epoch: 8, psnr: 3.17
+[2022-09-06 16:45:30,244][main.py][line:121][INFO] Epoch:[10/100]	 Average Loss: 113.0070
+[2022-09-06 16:45:31,540][main.py][line:142][INFO]   Average SNR: 2.0492 dB
+[2022-09-06 16:45:31,555][main.py][line:157][INFO] best epoch: 8, psnr: 3.17
+[2022-09-06 16:45:40,314][main.py][line:121][INFO] Epoch:[11/100]	 Average Loss: 112.2792
+[2022-09-06 16:45:41,809][main.py][line:142][INFO]   Average SNR: 3.1184 dB
+[2022-09-06 16:45:41,827][main.py][line:157][INFO] best epoch: 8, psnr: 3.17
+[2022-09-06 16:45:50,716][main.py][line:121][INFO] Epoch:[12/100]	 Average Loss: 110.8532
+[2022-09-06 16:45:52,203][main.py][line:142][INFO]   Average SNR: 2.8237 dB
+[2022-09-06 16:45:52,221][main.py][line:157][INFO] best epoch: 8, psnr: 3.17
+[2022-09-06 16:46:00,768][main.py][line:121][INFO] Epoch:[13/100]	 Average Loss: 110.1728
+[2022-09-06 16:46:02,166][main.py][line:142][INFO]   Average SNR: 3.0041 dB
+[2022-09-06 16:46:02,184][main.py][line:157][INFO] best epoch: 8, psnr: 3.17
+[2022-09-06 16:46:10,735][main.py][line:121][INFO] Epoch:[14/100]	 Average Loss: 108.9623
+[2022-09-06 16:46:12,005][main.py][line:142][INFO]   Average SNR: 3.0948 dB
+[2022-09-06 16:46:12,021][main.py][line:157][INFO] best epoch: 8, psnr: 3.17
+[2022-09-06 16:46:20,747][main.py][line:121][INFO] Epoch:[15/100]	 Average Loss: 108.0404
+[2022-09-06 16:46:22,000][main.py][line:142][INFO]   Average SNR: 2.6932 dB
+[2022-09-06 16:46:22,015][main.py][line:157][INFO] best epoch: 8, psnr: 3.17
+[2022-09-06 16:46:30,903][main.py][line:121][INFO] Epoch:[16/100]	 Average Loss: 107.1807
+[2022-09-06 16:46:32,241][main.py][line:142][INFO]   Average SNR: 2.9202 dB
+[2022-09-06 16:46:32,257][main.py][line:157][INFO] best epoch: 8, psnr: 3.17
+[2022-09-06 16:46:40,895][main.py][line:121][INFO] Epoch:[17/100]	 Average Loss: 106.3932
+[2022-09-06 16:46:42,361][main.py][line:142][INFO]   Average SNR: 2.9661 dB
+[2022-09-06 16:46:42,382][main.py][line:157][INFO] best epoch: 8, psnr: 3.17
+[2022-09-06 16:46:50,972][main.py][line:121][INFO] Epoch:[18/100]	 Average Loss: 105.9957
+[2022-09-06 16:46:52,328][main.py][line:142][INFO]   Average SNR: 2.6656 dB
+[2022-09-06 16:46:52,344][main.py][line:157][INFO] best epoch: 8, psnr: 3.17
+[2022-09-06 16:47:01,015][main.py][line:121][INFO] Epoch:[19/100]	 Average Loss: 105.2750
+[2022-09-06 16:47:02,300][main.py][line:142][INFO]   Average SNR: 2.8103 dB
+[2022-09-06 16:47:02,317][main.py][line:157][INFO] best epoch: 8, psnr: 3.17
+[2022-09-06 16:47:10,807][main.py][line:121][INFO] Epoch:[20/100]	 Average Loss: 104.9684
+[2022-09-06 16:47:12,047][main.py][line:142][INFO]   Average SNR: 3.1559 dB
+[2022-09-06 16:47:12,062][main.py][line:157][INFO] best epoch: 8, psnr: 3.17
+[2022-09-06 16:47:20,262][main.py][line:121][INFO] Epoch:[21/100]	 Average Loss: 103.4478
+[2022-09-06 16:47:21,570][main.py][line:142][INFO]   Average SNR: 3.0279 dB
+[2022-09-06 16:47:21,587][main.py][line:157][INFO] best epoch: 8, psnr: 3.17
+[2022-09-06 16:47:30,340][main.py][line:121][INFO] Epoch:[22/100]	 Average Loss: 103.5327
+[2022-09-06 16:47:31,621][main.py][line:142][INFO]   Average SNR: 2.4597 dB
+[2022-09-06 16:47:31,637][main.py][line:157][INFO] best epoch: 8, psnr: 3.17
+[2022-09-06 16:47:40,433][main.py][line:121][INFO] Epoch:[23/100]	 Average Loss: 102.3596
+[2022-09-06 16:47:41,791][main.py][line:142][INFO]   Average SNR: 3.0776 dB
+[2022-09-06 16:47:41,807][main.py][line:157][INFO] best epoch: 8, psnr: 3.17
+[2022-09-06 16:47:50,327][main.py][line:121][INFO] Epoch:[24/100]	 Average Loss: 101.7507
+[2022-09-06 16:47:51,682][main.py][line:142][INFO]   Average SNR: 3.1064 dB
+[2022-09-06 16:47:51,698][main.py][line:157][INFO] best epoch: 8, psnr: 3.17
+[2022-09-06 16:48:00,380][main.py][line:121][INFO] Epoch:[25/100]	 Average Loss: 100.5988
+[2022-09-06 16:48:01,678][main.py][line:142][INFO]   Average SNR: 3.1244 dB
+[2022-09-06 16:48:01,698][main.py][line:157][INFO] best epoch: 8, psnr: 3.17
+[2022-09-06 16:48:10,745][main.py][line:121][INFO] Epoch:[26/100]	 Average Loss: 100.2439
+[2022-09-06 16:48:12,045][main.py][line:142][INFO]   Average SNR: 3.8122 dB
+[2022-09-06 16:48:12,071][main.py][line:157][INFO] best epoch: 26, psnr: 3.81
+[2022-09-06 16:48:20,866][main.py][line:121][INFO] Epoch:[27/100]	 Average Loss: 99.5139
+[2022-09-06 16:48:22,203][main.py][line:142][INFO]   Average SNR: 3.0686 dB
+[2022-09-06 16:48:22,218][main.py][line:157][INFO] best epoch: 26, psnr: 3.81
+[2022-09-06 16:48:30,834][main.py][line:121][INFO] Epoch:[28/100]	 Average Loss: 98.2638
+[2022-09-06 16:48:32,169][main.py][line:142][INFO]   Average SNR: 2.6969 dB
+[2022-09-06 16:48:32,185][main.py][line:157][INFO] best epoch: 26, psnr: 3.81
+[2022-09-06 16:48:40,767][main.py][line:121][INFO] Epoch:[29/100]	 Average Loss: 97.9804
+[2022-09-06 16:48:42,095][main.py][line:142][INFO]   Average SNR: 2.9928 dB
+[2022-09-06 16:48:42,121][main.py][line:157][INFO] best epoch: 26, psnr: 3.81
+[2022-09-06 16:48:50,913][main.py][line:121][INFO] Epoch:[30/100]	 Average Loss: 97.6870
+[2022-09-06 16:48:52,208][main.py][line:142][INFO]   Average SNR: 3.3739 dB
+[2022-09-06 16:48:52,225][main.py][line:157][INFO] best epoch: 26, psnr: 3.81
+[2022-09-06 16:49:00,740][main.py][line:121][INFO] Epoch:[31/100]	 Average Loss: 97.1929
+[2022-09-06 16:49:02,026][main.py][line:142][INFO]   Average SNR: 2.8716 dB
+[2022-09-06 16:49:02,045][main.py][line:157][INFO] best epoch: 26, psnr: 3.81
+[2022-09-06 16:49:10,782][main.py][line:121][INFO] Epoch:[32/100]	 Average Loss: 96.2126
+[2022-09-06 16:49:12,083][main.py][line:142][INFO]   Average SNR: 3.5077 dB
+[2022-09-06 16:49:12,099][main.py][line:157][INFO] best epoch: 26, psnr: 3.81
+[2022-09-06 16:49:20,929][main.py][line:121][INFO] Epoch:[33/100]	 Average Loss: 95.6649
+[2022-09-06 16:49:22,308][main.py][line:142][INFO]   Average SNR: 3.3083 dB
+[2022-09-06 16:49:22,324][main.py][line:157][INFO] best epoch: 26, psnr: 3.81
+[2022-09-06 16:49:31,074][main.py][line:121][INFO] Epoch:[34/100]	 Average Loss: 94.7383
+[2022-09-06 16:49:32,360][main.py][line:142][INFO]   Average SNR: 3.2041 dB
+[2022-09-06 16:49:32,376][main.py][line:157][INFO] best epoch: 26, psnr: 3.81
+[2022-09-06 16:49:41,271][main.py][line:121][INFO] Epoch:[35/100]	 Average Loss: 94.4559
+[2022-09-06 16:49:42,604][main.py][line:142][INFO]   Average SNR: 3.2315 dB
+[2022-09-06 16:49:42,620][main.py][line:157][INFO] best epoch: 26, psnr: 3.81
+[2022-09-06 16:49:51,414][main.py][line:121][INFO] Epoch:[36/100]	 Average Loss: 93.2416
+[2022-09-06 16:49:52,706][main.py][line:142][INFO]   Average SNR: 2.9771 dB
+[2022-09-06 16:49:52,722][main.py][line:157][INFO] best epoch: 26, psnr: 3.81
+[2022-09-06 16:50:01,605][main.py][line:121][INFO] Epoch:[37/100]	 Average Loss: 92.9450
+[2022-09-06 16:50:02,998][main.py][line:142][INFO]   Average SNR: 2.8360 dB
+[2022-09-06 16:50:03,014][main.py][line:157][INFO] best epoch: 26, psnr: 3.81
+[2022-09-06 16:50:11,700][main.py][line:121][INFO] Epoch:[38/100]	 Average Loss: 91.6930
+[2022-09-06 16:50:13,016][main.py][line:142][INFO]   Average SNR: 3.1281 dB
+[2022-09-06 16:50:13,033][main.py][line:157][INFO] best epoch: 26, psnr: 3.81
+[2022-09-06 16:50:22,132][main.py][line:121][INFO] Epoch:[39/100]	 Average Loss: 91.2129
+[2022-09-06 16:50:23,470][main.py][line:142][INFO]   Average SNR: 2.8042 dB
+[2022-09-06 16:50:23,487][main.py][line:157][INFO] best epoch: 26, psnr: 3.81
